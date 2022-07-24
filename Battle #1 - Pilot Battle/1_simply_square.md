@@ -1,3 +1,8 @@
+# Battle #1 - Pilot Battle
+
+## #1 - Simple Square
+
+```html
 <div></div>
 <style>
   body {
@@ -10,3 +15,5 @@
     background: #b5e0ba;
   }
 </style>
+```
+![solution](./media/1-simply-square.png)

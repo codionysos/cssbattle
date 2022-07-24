@@ -1,3 +1,8 @@
+# Battle #1 - Pilot Battle
+
+## #2 - Carrom
+
+```html
 <div class="sq u l"></div>
 <div class="sq u r"></div>
 <div class="sq d l"></div>
@@ -26,3 +31,6 @@
     left:0;
   }
 </style>
+```
+
+![solution](./media/2-carrom.png)
