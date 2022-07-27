@@ -1,6 +1,6 @@
 # Battle #1 - Pilot Battle
 
-## #4 - ups n Downs
+## #4 - Ups n Downs
 
 ```html
 <div class="c u"></div>
