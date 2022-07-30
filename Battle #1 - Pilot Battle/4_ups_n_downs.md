@@ -2,6 +2,8 @@
 
 ## #4 - Ups n Downs
 
+![solution](./media/4-ups-n-downs.png)
+
 ```html
 <div class="c u"></div>
 <div class="c d r"></div>
@@ -34,4 +36,3 @@
 </style>
 ```
 
-![solution](./media/4-ups-n-downs.png)

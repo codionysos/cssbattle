@@ -2,6 +2,8 @@
 
 ## #3 - Push Button
 
+![solution](./media/3-push-button.png)
+
 ```html
 <div class="sq">
   <div class="b">
@@ -38,4 +40,3 @@
 </style>
 ```
 
-![solution](./media/3-push-button.png)

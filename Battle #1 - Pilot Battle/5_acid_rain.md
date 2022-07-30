@@ -2,6 +2,8 @@
 
 ## #5 - Acid Rain
 
+![solution](./media/5-acid-rain.png)
+
 ```html
 <div class="col">
 	<div class="s r"></div>
@@ -37,4 +39,3 @@
 </style>
 ```
 
-![solution](./media/5-acid-rain.png)

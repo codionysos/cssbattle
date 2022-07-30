@@ -2,6 +2,8 @@
 
 ## #1 - Simple Square
 
+![solution](./media/1-simply-square.png)
+
 ```html
 <div></div>
 <style>
@@ -16,4 +18,3 @@
   }
 </style>
 ```
-![solution](./media/1-simply-square.png)

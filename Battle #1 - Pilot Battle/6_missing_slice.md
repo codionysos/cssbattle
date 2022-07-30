@@ -2,6 +2,8 @@
 
 ## #6 - Missing Slice
 
+![solution](./media/6-missing-slice.png)
+
 ```html
 <div class="g"></div>
 <div class="y"></div>
@@ -37,4 +39,3 @@
 </style>
 ```
 
-![solution](./media/5-missing-slice.png)

@@ -2,6 +2,8 @@
 
 ## #2 - Carrom
 
+![solution](./media/2-carrom.png)
+
 ```html
 <div class="sq u l"></div>
 <div class="sq u r"></div>
@@ -33,4 +35,3 @@
 </style>
 ```
 
-![solution](./media/2-carrom.png)
