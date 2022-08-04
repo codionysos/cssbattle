@@ -1,6 +1,6 @@
 # Battle #1 - Pilot Battle
 
-## #7 - Leafy Trail
+## #8 - Forking Crazy
 
 ![solution](./media/8-forking-crazy.png)
 
