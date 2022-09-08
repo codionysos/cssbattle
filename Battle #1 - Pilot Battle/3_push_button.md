@@ -5,22 +5,22 @@
 ![solution](./media/3-push-button.png)
 
 ```html
-<div class="sq">
-  <div class="b">
-  	<div class="c"></div>
+<div class="square">
+  <div class="circle">
+  	<div class=target></div>
   </div>
 </div>
 <style>
   body {
     background:#6592CF;
   }
-  .sq {
+  .square {
     margin: 75px auto;
     width: 300px;
     height: 150px;
     background: #243D83;
   }
-  .b{
+  .circle{
     top:25px;
     left:75px;
     border-radius: 150px;
@@ -30,7 +30,7 @@
     background: #243D83;
     position: absolute;
   }
-  .c {
+  .target {
     border-radius: 50px;
     margin: 50px auto;
     width: 50px;
