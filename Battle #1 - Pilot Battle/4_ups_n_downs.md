@@ -5,32 +5,32 @@
 ![solution](./media/4-ups-n-downs.png)
 
 ```html
-<div class="c u"></div>
-<div class="c d r"></div>
-<div class="c d l"></div>
+<div class="el up"></div>
+<div class="el down right"></div>
+<div class="el down left"></div>
 <style>
   body{
     background:#62306D;
   }
-  .c {
+  .el {
     width: 100px;
     height: 100px;
     background: #F7EC7D;
     position: absolute;
   }
-  .u{
+  .up{
     top:50;
     border-radius: 50px 50px 0px 0px;
     left:150px;
   }
-  .d {
+  .down {
     bottom: 50px;
     border-radius: 0px 0px 50px 50px;
   }
-  .r {
+  .right {
     right: 50px;
   }
-  .l {
+  .left {
     left:50px;
   }
 </style>
