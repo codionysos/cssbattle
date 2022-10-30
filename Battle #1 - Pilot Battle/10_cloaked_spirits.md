@@ -5,16 +5,16 @@
 ![solution](./media/10-cloaked-spirits.png)
 
 ```html
-<div class="up"></div>
-<div class="s"></div>
-<div class="c u"></div>
-<div class="c l"></div>
-<div class="c r"></div>
+<div class="body1"></div>
+<div class="body2"></div>
+<div class="circle up"></div>
+<div class="circle left"></div>
+<div class="circle right"></div>
 <style>
   body{
     background: #62306D;
   }
-  .s{
+  .body1{
     position:absolute;
     width: 300px;
     height: 100px;
@@ -22,7 +22,7 @@
     bottom:0px;
     left:50px;
   }
-  .up{
+  .body2{
     position:absolute;
     width: 100px;
     height: 200px;
@@ -30,25 +30,25 @@
     bottom:0px;
     left:150px
   }
-  .c{
+  .circle{
     position: absolute;
     width: 60px;
     height: 60px;
     border-radius: 50%;
   }
-  .u{
+  .up{
     left:170px;
     top: 70px;
     background: #AA445F;
     box-shadow: 0px 0px 0px 20px #E38F66;
   }
-  .l{
+  .left{
     left:70px;
     bottom:70px;
     background: #E38F66;
     box-shadow: 0px 0px 0px 20px #AA445F;
   }
-  .r{
+  .right{
     right:70px;
     bottom:70px;
     background: #E38F66;
